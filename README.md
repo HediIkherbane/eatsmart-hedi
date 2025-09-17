@@ -9,7 +9,7 @@
 
 (Complétez ici avec la description du projet présentée en classe.)
 
----
+<img src="./assets/img/Screenshot_1.png">
 
 ### **3. Fonctionnalités principales**
 
