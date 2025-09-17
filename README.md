@@ -1,4 +1,3 @@
-# [Cahier-des-charges.md](https://github.com/user-attachments/files/22384252/Cahier-des-charges.md)
 # **Projet : EatSmart**
 
 **Etudiants :** (Nom des étudiants)
