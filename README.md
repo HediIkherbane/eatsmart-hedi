@@ -1,13 +1,11 @@
 # **Projet : EatSmart**
 
-**Etudiants :** (Nom des étudiants)
+**Etudiants :** Ikherbane Hedi Hamza
 
 ---
 
 ### **1. Description du projet**
-
-(Complétez ici avec la description du projet présentée en classe.)
-
+ EatSmart est une application qui permet de passer commande a des restaurants en ligne. Les restaurateurs ont la possibilité de changer leur menu quand ils veulent et aussi indiquer la disponibilité de leur produits grace a une base de donnée
 <img src="./assets/img/Screenshot_1.png">
 
 ### **3. Fonctionnalités principales**
@@ -15,25 +13,25 @@
 #### **3.1 Frontend (eatSmartFront)**
 
 - **Fonctionnalité 1 :**  
-  (Décrivez ici la première fonctionnalité du front-office.)
+
   
 - **Fonctionnalité 2 :**  
-  (Décrivez ici la deuxième fonctionnalité du front-office.)
+  Les utilisateurs peuvent consulter le menu, choisir les produits qu'ils souhaitent commander, et finaliser leur commande.
   
 #### **3.2 Backend (eatSmartBack)**
 
 - **Fonctionnalité 1 :**  
-  (Décrivez ici la première fonctionnalité du back-office.)
+  Page de gestion de commande : Les utilisateurs peuvent consulter l'historique de leurs commandes, les détails des plats commandés, et l'état de leur commande.
   
 - **Fonctionnalité 2 :**  
-  (Décrivez ici la deuxième fonctionnalité du back-office.)
+ Gestion des menus : Les restaurateurs peuvent ajouter, modifier ou supprimer des plats à tout moment. Les informations liées à chaque plat incluent le nom, la description, le prix et la disponibilité (par exemple, "en rupture de stock").)
 
 ---
 
 ### **4. Technologies utilisées**
 
-- **Frontend :** (Technologies prévues)
-- **Backend :** (Technologies prévues)
-- **Base de données :** (Technologies prévues)
+- **Frontend :** PHP , JS , HTML , CSS
+- **Backend :** PHP , API-Rest
+- **Base de données :** MySQL
 
 ---
