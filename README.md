@@ -36,3 +36,4 @@
 
 ---
 ### **5. Schema Entites Relations**
+<img src="./assets/img/Screenshot_2.png">
