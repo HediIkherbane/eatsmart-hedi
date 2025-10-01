@@ -40,7 +40,7 @@
 
 ## Endpoints de l'API
 
-Adresse de l'API (en local) : http://localhost/____
+Adresse de l'API (en local) : http://localhosthedi-api-eatsmart/
 
 Voici les différents endpoints de l'API : 
 - `GET /articles` → Afficher la liste des articles
